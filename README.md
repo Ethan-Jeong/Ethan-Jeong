@@ -31,6 +31,9 @@
     * Davinchi Resolve ( 초급 )
   * 드론
     * Fimi Navi 2020
+      * 촬영영상
+      * [제주도](https://youtu.be/tc_7nO_oqPk) 
+        * <img src="md-images/image-20210604105756015.png" alt="image-20210604105756015" style="zoom: 80%;" />![image-20210604105832728](md-images/image-20210604105832728.png)
   * IOT
     * google home mini[google] ( 음성 제어 가능 )
     * 무드등[샤오미] ( 음성 제어 가능)
@@ -47,3 +50,9 @@
   * 롤
     * 언랭 , 칼바람 유저
 
+# 중요하게 생각하는 것들
+
+* 사람
+* 행복
+* 경험
+* 외유내강
