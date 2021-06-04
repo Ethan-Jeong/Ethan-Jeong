@@ -1,3 +1,5 @@
+[ TODAY  :![Hits](md-images/badge.svg)](https://hits.seeyoufarm.com)
+
 
 
 # 출생 
@@ -53,20 +55,28 @@
 * Tech
 
   * 전자기기
-  
-    * 샤오미 2세대 로봇청소기 ( 음성 제어 가능 - google home mini )
-    
-    * 갤탭s6
-    
-    * Amazefit GTR 47mm
-    
+
+    * portable
+
+      * 갤탭s6
+
+    * wearable
+
+      * Amazefit GTR 47mm
       
-    
+    * home appliances
+
+      * 샤오미 2세대 로봇청소기
+
+        * 물걸레 청소 가능
+
+          
+
   * 영상편집
     * Davinchi Resolve ( 초급 )
-  
+
       
-  
+
   * 드론
     * Fimi Navi 2020
       * 촬영영상
@@ -74,7 +84,7 @@
          * [제주도](https://youtu.be/tc_7nO_oqPk) 
          
              <img src="md-images/image-20210604105756015.png" alt="image-20210604105756015" style="zoom: 80%;" />
-  
+
              ![image-20210604105832728](md-images/image-20210604105832728.png)
          ---
          * [통영](https://youtu.be/5V9D5URqNI4)
@@ -82,21 +92,21 @@
            ![image-20210604111203841](md-images/image-20210604111203841.png)
          
            ![image-20210604111229911](md-images/image-20210604111229911.png)
-  
+
   * IOT
     * google home mini[google] ( 음성 제어 가능 - google home mini  )
-  
+
     * 무드등[샤오미] ( 음성 제어 가능 - google home mini  )
-  
+
     * ir 송신기[BroadLink] ( 음성 제어 가능 - google home mini  )
       * 빔프로젝터 ( 음성 제어 가능 - google home mini  )
       
     * 가습기[샤오미] ( 음성 제어 가능 - google home mini  )
-  
+
     * 전원 스위치[샤오미]
-  
+
       
-  
+
 * 게임
 
   * 배틀그라운드 ( Kakao )
@@ -127,4 +137,7 @@
 * 사람
 * 행복
 * 경험
+* 소통
+* 배려
+* 효율
 * 외유내강
